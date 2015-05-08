@@ -1,0 +1,215 @@
+body {
+width: 100%;
+background-image: url(Homepage/achtergrond.jpg);
+font-family: 'Architects Daughter', cursive;
+}
+
+
+.kader {
+position: relative;
+top: 200px;
+left: 150px;
+text-align: center;
+width: 40%;
+height: 100%;
+margin: auto;
+margin-top: 3em;
+color: white;
+}
+
+.kader1 {
+text-align: center;
+margin: 3em, auto;
+width: 90%;
+height: 80%;
+margin: auto;
+color: white;
+}
+
+.ruiten {
+float: right;
+margin-top: 6em;
+margin-right: 3em;
+}
+
+.ruit1 {
+margin: auto;
+width: 10em;
+height: 10em;
+border: solid white;
+background-color: black;
+border-width: 0.5em;
+transform: rotate(70deg);
+cursor: pointer;
+}
+
+.ruit1:hover {
+border: solid black;
+background-color: white;
+border-width: 0.5em;
+}
+
+.ruit1 a {
+display: block;
+transform: rotate(-70deg);
+margin-bottom: -5em;
+margin-top: 3em;
+}
+
+.ruit1 a:hover {
+color: black;
+}
+
+.ruit2 {
+margin: auto;
+width: 10em;
+height: 10em;
+border: solid black;
+background-color: white;
+border-width: 0.5em;
+transform: rotate(120deg);
+cursor: pointer;
+}
+
+.ruit2:hover {
+border: solid white;
+background-color: black;
+border-width: 0.5em;
+}
+
+.ruit2 a {
+color: black;
+display: block;
+transform: rotate(-120deg);
+margin-left: -1em;
+margin-right: -1em;
+margin-top: 2.5em;
+}
+
+.ruit2 a:hover {
+color: white;
+}
+
+.ruit3 {
+margin: auto;
+width: 10em;
+height: 10em;
+border: solid white;
+background-color: black;
+border-width: 0.5em;
+transform: rotate(170deg);
+cursor: pointer;
+}
+
+.ruit3:hover {
+border: solid black;
+background-color: white;
+border-width: 0.5em;
+}
+
+.ruit3 a {
+display: block;
+transform: rotate(-170deg);
+margin-top: 1em;
+}
+
+.ruit3 a:hover {
+color: black;
+}
+
+.ruit4 {
+margin: auto;
+width: 10em;
+height: 10em;
+border: solid black;
+background-color: white;
+border-width: 0.5em;
+transform: rotate(-170deg);
+cursor: pointer;
+}
+
+.ruit4:hover {
+border: solid white;
+background-color: black;
+border-width: 0.5em;
+}
+
+.ruit4 a {
+color: black;
+display: block;
+transform: rotate(170deg);
+margin-top: 2em;
+}
+
+.ruit4 a:hover {
+color: white;
+}
+
+h1 {
+font-size: 3em;
+margin-bottom: 1em;
+margin-left: 1em;
+margin-top: 2em;
+float: left;
+}
+
+p {
+font-size: 1em;
+}
+
+
+a {
+font-size: 1.5em;
+color: white;
+}
+
+.profiel {
+max-width: 40%;
+float: left;
+margin-top: 12em;
+margin-left: -14em;
+}
+
+.afb1{
+width: 300px;
+height: 300px;
+}
+
+.afb2{
+width: 300px;
+height: 300px;
+}
+
+.ss1 {
+display: none;
+}
+
+.ss2 {
+display: none;
+}
+
+.ss3 {
+padding-top: 20em;
+display: none;
+}
+
+.s1 {
+display: none;
+font-size: 2em;
+}
+
+.s2 {
+display: none;
+font-size: 2em;
+}
+
+.s3 {
+display: none;
+font-size: 2em;
+}
+
+
+
+.zichtbaar {
+display: inline;
+}
