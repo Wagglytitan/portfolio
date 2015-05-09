@@ -2,6 +2,7 @@ body {
 width: 100%;
 background-image: url(klok.jpg);
 background-size: 100%;
+font-family: 'Architects Daughter', cursive;
 }
 
 .kader {
@@ -50,8 +51,37 @@ margin-top: -2em;
 margin-right: -30em;
 }
 
-
 a {
 text-decoration: none;
 color: white;
+}
+
+.doctor1 {
+float: right;
+margin-top: -26em;
+margin-right: -33em;
+font-size: 1.3em;
+color: white;
+}
+
+.space1 {
+float: right;
+margin-top: -26em;
+margin-right: -33em;
+width: 20em;
+font-size: 1.3em;
+color: white;
+}
+
+.nature1 {
+float: right;
+margin-top: -26em;
+margin-right: -33em;
+width: 20em;
+font-size: 1.3em;
+color: white;
+}
+
+.onzichtbaar {
+display: none;
 }
