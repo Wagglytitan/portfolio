@@ -54,10 +54,7 @@ display: block;
 transform: rotate(-70deg);
 margin-bottom: -5em;
 margin-top: 3em;
-}
-
-.ruit1 a:hover {
-color: black;
+color: grey;
 }
 
 .ruit2 {
@@ -78,16 +75,11 @@ border-width: 0.5em;
 }
 
 .ruit2 a {
-color: black;
 display: block;
 transform: rotate(-120deg);
 margin-left: -1em;
 margin-right: -1em;
 margin-top: 2.5em;
-}
-
-.ruit2 a:hover {
-color: white;
 }
 
 .ruit3 {
@@ -113,10 +105,6 @@ transform: rotate(-170deg);
 margin-top: 1em;
 }
 
-.ruit3 a:hover {
-color: black;
-}
-
 .ruit4 {
 margin: auto;
 width: 10em;
@@ -135,14 +123,9 @@ border-width: 0.5em;
 }
 
 .ruit4 a {
-color: black;
 display: block;
 transform: rotate(170deg);
 margin-top: 2em;
-}
-
-.ruit4 a:hover {
-color: white;
 }
 
 .ruit5 {
@@ -163,14 +146,9 @@ border-width: 0.5em;
 }
 
 .ruit5 a {
-color: white;
 display: block;
 transform: rotate(180deg);
 margin-top: 2em;
-}
-
-.ruit5 a:hover {
-color: black;
 }
 
 h1 {
@@ -188,7 +166,7 @@ font-size: 1em;
 
 a {
 font-size: 1.5em;
-color: white;
+color: grey;
 }
 
 .profiel {

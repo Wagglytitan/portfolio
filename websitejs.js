@@ -25,6 +25,7 @@ var main = function () {
 	  $('.s4').addClass('zichtbaar');
 	  $('.s1').removeClass('zichtbaar');
 	  $('.s2').removeClass('zichtbaar');
+	  $('.s3').removeClass('zichtbaar');
   });
   
    $(".volgende1").on("click", function () {

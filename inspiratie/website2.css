@@ -3,6 +3,7 @@ width: 100%;
 background-image: url(klok.jpg);
 background-size: 100%;
 font-family: 'Architects Daughter', cursive;
+margin-top: 10em;
 }
 
 .kader {
@@ -12,6 +13,12 @@ margin: auto;
 text-align: center;
 }
 
+.homepage {
+margin-bottom: -10em;
+font-size: 2em;
+position:relative;
+}
+
 .inspiratie {
 max-width: 30%;
 margin-bottom: -40em;
@@ -19,6 +26,7 @@ margin-left: -35em;
 border-radius: 10%;
 opacity: 0.80;
 }
+
 
 ul {
 margin-top: 60%;
