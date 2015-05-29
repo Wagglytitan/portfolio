@@ -26,6 +26,10 @@ margin: auto;
 color: white;
 }
 
+.profiel, .profiel2, .profiel3, .profiel4, .profiel5, .profiel6 {
+    display:none;
+}
+
 .ruiten {
 float: right;
 margin-top: 6em;
@@ -169,11 +173,11 @@ font-size: 1.5em;
 color: grey;
 }
 
-.profiel {
+.profiel, .profiel2, .profiel3, .profiel4, .profiel5, .profiel6 {
 max-width: 40%;
 float: left;
 margin-top: 12em;
-margin-left: -14em;
+margin-left: -43em;
 }
 
 .afb1{
